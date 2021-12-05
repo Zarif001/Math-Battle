@@ -93,7 +93,7 @@
     function H() {
       var a = +u || "0";
       ha.innerHTML = a;
-      ia.innerHTML = 10000000
+      ia.innerHTML = 'Ты ничего не заработал'
     }
   
     function I() {
